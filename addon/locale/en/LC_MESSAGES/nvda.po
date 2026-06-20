@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: screenCurtainPassword 0.1.0\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2026-06-20 00:00+0000\n"
+"PO-Revision-Date: 2026-06-20 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: addon/globalPlugins/screenCurtainPassword.py:132
+msgid "Screen Curtain password cleared. Password protection is disabled."
+msgstr "Screen Curtain password cleared. Password protection is disabled."
+
+#: addon/globalPlugins/screenCurtainPassword.py:197
+#, python-brace-format
+msgid "Password reset requested. The stored Screen Curtain password will be cleared in {minutes} minutes."
+msgstr "Password reset requested. The stored Screen Curtain password will be cleared in {minutes} minutes."
+
+#: addon/globalPlugins/screenCurtainPassword.py:280 addon/globalPlugins/screenCurtainPassword.py:320
+msgid "Screen Curtain password"
+msgstr "Screen Curtain password"
+
+#: addon/globalPlugins/screenCurtainPassword.py:287
+msgid "&Password:"
+msgstr "&Password:"
+
+#: addon/globalPlugins/screenCurtainPassword.py:292
+msgid "Sho&w password"
+msgstr "Sho&w password"
+
+#: addon/globalPlugins/screenCurtainPassword.py:319
+msgid "Incorrect password."
+msgstr "Incorrect password."
+
+#. Translators: Settings category title for this add-on.
+#. Translators: Summary/title for this add-on
+#: addon/globalPlugins/screenCurtainPassword.py:371 buildVars.py:21
+msgid "Screen Curtain Password"
+msgstr "Screen Curtain Password"
+
+#: addon/globalPlugins/screenCurtainPassword.py:381
+msgid "&Require a password before disabling Screen Curtain"
+msgstr "&Require a password before disabling Screen Curtain"
+
+#: addon/globalPlugins/screenCurtainPassword.py:386
+msgid "Protect NVDA e&xit or restart while Screen Curtain is active"
+msgstr "Protect NVDA e&xit or restart while Screen Curtain is active"
+
+#: addon/globalPlugins/screenCurtainPassword.py:392
+msgid "Current password:"
+msgstr "Current password:"
+
+#: addon/globalPlugins/screenCurtainPassword.py:400
+msgid "&New password:"
+msgstr "&New password:"
+
+#: addon/globalPlugins/screenCurtainPassword.py:405
+msgid "&Confirm new password:"
+msgstr "&Confirm new password:"
+
+#: addon/globalPlugins/screenCurtainPassword.py:410
+msgid "Sho&w passwords"
+msgstr "Sho&w passwords"
+
+#: addon/globalPlugins/screenCurtainPassword.py:418
+msgid "Leave the new password fields blank to keep the current password."
+msgstr "Leave the new password fields blank to keep the current password."
+
+#: addon/globalPlugins/screenCurtainPassword.py:448
+msgid "The new password and confirmation do not match."
+msgstr "The new password and confirmation do not match."
+
+#: addon/globalPlugins/screenCurtainPassword.py:449 addon/globalPlugins/screenCurtainPassword.py:456
+msgid "New password"
+msgstr "New password"
+
+#: addon/globalPlugins/screenCurtainPassword.py:455
+msgid "The password 00000 is reserved for password reset. Choose a different password."
+msgstr "The password 00000 is reserved for password reset. Choose a different password."
+
+#: addon/globalPlugins/screenCurtainPassword.py:462
+msgid "Set a password before enabling Screen Curtain password protection."
+msgstr "Set a password before enabling Screen Curtain password protection."
+
+#: addon/globalPlugins/screenCurtainPassword.py:463
+msgid "Require a password before disabling Screen Curtain"
+msgstr "Require a password before disabling Screen Curtain"
+
+#: addon/globalPlugins/screenCurtainPassword.py:471
+msgid "Enter the current password to change Screen Curtain password settings."
+msgstr "Enter the current password to change Screen Curtain password settings."
+
+#: addon/globalPlugins/screenCurtainPassword.py:472
+msgid "Current password"
+msgstr "Current password"
+
+#: addon/globalPlugins/screenCurtainPassword.py:568
+msgid "Enter the Screen Curtain password to exit NVDA."
+msgstr "Enter the Screen Curtain password to exit NVDA."
+
+#: addon/globalPlugins/screenCurtainPassword.py:574
+msgid "NVDA exit canceled."
+msgstr "NVDA exit canceled."
+
+#: addon/globalPlugins/screenCurtainPassword.py:622 addon/globalPlugins/screenCurtainPassword.py:684
+msgid "Enter the Screen Curtain password to disable Screen Curtain."
+msgstr "Enter the Screen Curtain password to disable Screen Curtain."
+
+#: addon/globalPlugins/screenCurtainPassword.py:631 addon/globalPlugins/screenCurtainPassword.py:686
+msgid "Screen Curtain remains enabled."
+msgstr "Screen Curtain remains enabled."
+
+#: addon/globalPlugins/screenCurtainPassword.py:655
+msgid "Screen curtain not available"
+msgstr "Screen curtain not available"
+
+#: addon/globalPlugins/screenCurtainPassword.py:657
+msgid "Screen curtain disabled"
+msgstr "Screen curtain disabled"
+
+#: addon/globalPlugins/screenCurtainPassword.py:663
+msgid "Could not disable screen curtain"
+msgstr "Could not disable screen curtain"
+
+#: addon/globalPlugins/screenCurtainPassword.py:701
+msgid "Toggles Screen Curtain, asking for the Screen Curtain password before disabling it."
+msgstr "Toggles Screen Curtain, asking for the Screen Curtain password before disabling it."
+
+#. Translators: Long description to be shown for this add-on on add-on information from add-on store
+#: buildVars.py:24
+msgid ""
+"Adds password protection before disabling NVDA's Screen Curtain or exiting NVDA while\n"
+"Screen Curtain is active."
+msgstr ""
+"Adds password protection before disabling NVDA's Screen Curtain or exiting NVDA while\n"
+"Screen Curtain is active."
+
+#. Translators: what's new content for the add-on version to be shown in the add-on store
+#: buildVars.py:32
+msgid "Initial version with Screen Curtain password settings and exit protection."
+msgstr "Initial version with Screen Curtain password settings and exit protection."
