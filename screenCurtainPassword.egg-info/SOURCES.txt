@@ -1,0 +1,12 @@
+COPYING.TXT
+COPYING.txt
+LICENSE
+README.md
+pyproject.toml
+readme.md
+addon/globalPlugins/screenCurtainPassword.py
+screenCurtainPassword.egg-info/PKG-INFO
+screenCurtainPassword.egg-info/SOURCES.txt
+screenCurtainPassword.egg-info/dependency_links.txt
+screenCurtainPassword.egg-info/requires.txt
+screenCurtainPassword.egg-info/top_level.txt
